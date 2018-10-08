@@ -20,6 +20,8 @@ $ cd youTubePlayer
 $ npm install
 ```
 
+Before run the project and generate bundle.js, generate your own API_KEY, using the [YouTube Data API](https://developers.google.com/youtube/v3/), then set the variable `API_KEY` in `src/index.js`.
+
 ## Run
 ```bash
 $ npm start
